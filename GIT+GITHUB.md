@@ -47,6 +47,11 @@ git log
 ```
 > Muestra el historial de commits.
 
+```bash
+git log --oneline
+```
+> Muestra el historial de commits en una sola linea.
+
 ---
 
 ## Subir a GitHub
